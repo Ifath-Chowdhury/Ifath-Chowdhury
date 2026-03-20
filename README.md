@@ -3,7 +3,7 @@
   <img src="#" alt="Profile Picture" width="150" />
 </p>
 
-<h1 align="center">Hi, I'm YOUR_NAME_HERE</h1>
+<h1 align="center">Hi, I'm Ifath Chowdhury!</h1>
 <h2 align="center">Full Stack Developer | React.js | Node.js | Python | SQL | JavaScript</h2>
 
 ---
