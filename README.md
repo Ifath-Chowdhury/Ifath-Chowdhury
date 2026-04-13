@@ -16,7 +16,7 @@
 
 <h2 align="center">About Me</h2>
 <p align="center">
-I'm a creative and passionate Full Stack Developer with experience building responsive web applications using modern technologies. I love working on projects that solve real-world problems, optimizing code, and continuously learning new tools and frameworks. Along with that, my other interests include video games, anime/manga/ drawing and making origami.
+I'm a creative and passionate <strong>Full Stack Developer</strong> with experience building responsive web applications using modern technologies. I love working on projects that <strong>solve real-world problems, optimizing code, and continuously learning new tools and frameworks.</strong> Along with that, my other interests include video games, anime/manga/ drawing and making origami.
 </p>
 
 ---
@@ -60,17 +60,18 @@ I'm a creative and passionate Full Stack Developer with experience building resp
 
 ## GitHub Stats
 <p align="center">
-  <img src="https://ghchart.rshah.org/Darrenvandervelde" alt="GitHub Contribution Chart" />
+  <img src="https://ghchart.rshah.org/Ifath-Chowdhury" alt="GitHub Contribution Chart" />
 </p>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Darrenvandervelde&theme=default" alt="GitHub Streak" width="40%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ifath-Chowdhury&theme=default" alt="GitHub Streak" width="40%">
 </div>
 
 ---
 
 ## Currently Working On
 <ul>
+  <li>Landing Page Frontend</li>
   <li>Full Stack React + Node.js Project</li>
   <li>Portfolio Website Revamp</li>
   <li>Learning TypeScript & Next.js</li>
@@ -89,7 +90,6 @@ I'm a creative and passionate Full Stack Developer with experience building resp
 </p>
 
 <p align="center"><strong>Thanks for visiting!</strong></p>
-- 👀 I’m interested in video games, anime and manga, and programming. I also enjoy drawing and making origami in my free time.
 
 <!---
 Ifath-Chowdhury/Ifath-Chowdhury is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
