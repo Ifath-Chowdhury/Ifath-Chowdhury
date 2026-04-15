@@ -1,7 +1,4 @@
 <!-- Profile Picture -->
-<p align="center">
-  <img src="#" alt="Profile Picture" width="150" />
-</p>
 
 <h1 align="center">Hi, I'm Ifath Chowdhury!</h1>
 <h2 align="center">Full Stack Developer | React.js | Node.js | Python | SQL | JavaScript</h2>
@@ -58,7 +55,8 @@ I'm a creative and passionate <strong>Full Stack Developer</strong> with experie
 
 ---
 
-## GitHub Stats
+<h2 align="center">GitHub Stats</h2>
+
 <p align="center">
   <img src="https://ghchart.rshah.org/Ifath-Chowdhury" alt="GitHub Contribution Chart" />
 </p>
@@ -66,6 +64,31 @@ I'm a creative and passionate <strong>Full Stack Developer</strong> with experie
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ifath-Chowdhury&theme=default" alt="GitHub Streak" width="40%">
 </div>
+
+---
+
+<h2 align="center">Featured Projects</h2>
+
+<table>
+  <tr>
+    <td>
+      <section>
+        <article>
+          <h3>AnimeSky - Streaming Site Landing Page Demo</h3>
+          <figure>
+            <img src="https://github.com/Ifath-Chowdhury/Ifath-Chowdhury/blob/main/animesky.png" alt="AnimeSky screenshot" style="width: 100%;" />
+          </figure>
+          <p>Frontend demo of a landing page for an anime streaming site</p>
+          <p><strong>Tech:</strong> HTML, CSS, JavaScript</p>
+          <p>
+            <a href="https://github.com/Ifath-Chowdhury/anime-streaming-site-landing-page-demo" target="_blank" rel="noreferrer">Repository</a> &nbsp;|&nbsp;
+            <a href="https://anime-streaming-site-landing-page-d.vercel.app/" target="_blank" rel="noreferrer">Demo</a>
+          </p>
+        </article>
+      </section>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -79,7 +102,8 @@ I'm a creative and passionate <strong>Full Stack Developer</strong> with experie
 
 ---
 
-## Connect With Me
+<h2 align="center">Connect With Me!</h2>
+
 <p align="center">
   <a href=https://www.linkedin.com/in/ifath-chowdhury-8a3232267/ target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-007ACC?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
